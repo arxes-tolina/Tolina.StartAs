@@ -7,10 +7,12 @@ This software allows you (caller) to start a new process as a different user (ta
 - no new console / window is opened
 
 ## Command line options
--u, --user       Useraccount to run under
--p, --password   Password of the useraccount
--e, --executable Path to executable
--a, --arguments  Additional arguments (optional)
--w, --workdir    Working directory
--v, --verbose    Prints all messages to standard output.
+| Name             | Description                            |
+|:-----------------|:---------------------------------------|
+| -u, --user       | Useraccount to run under               |
+| -p, --password   | Password of the useraccount            |
+| -e, --executable | Path to executable                     |
+| -a, --arguments  | Additional arguments (optional)        |
+| -w, --workdir    | Working directory                      |
+| -v, --verbose    | Prints all messages to standard output.|
 

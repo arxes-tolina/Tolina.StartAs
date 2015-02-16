@@ -1,0 +1,5 @@
+.project
+*.suo
+packages
+Tolina.StartAs/bin
+Tolina.StartAs/obj

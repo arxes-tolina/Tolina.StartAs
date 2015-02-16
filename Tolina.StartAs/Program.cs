@@ -1,4 +1,7 @@
-﻿using CommandLine;
+﻿/*
+ * Copyright (c) 2015 tolina GmbH
+ */
+using CommandLine;
 using CommandLine.Text;
 using System;
 using System.ComponentModel;

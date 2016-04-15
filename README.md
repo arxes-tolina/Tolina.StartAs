@@ -1,3 +1,4 @@
+![](https://travis-ci.org/arxes-tolina/Tolina.StartAs.svg?branch=master)
 ## Tolina.StartAs
 This software allows you (caller) to start a new process as a different user (target user) with following constraints:
 - the target user's profile is loaded
